@@ -1,0 +1,191 @@
+{
+   "checksum": "1c755109de64c19eebdd84c224e54eab",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13349269980588382",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13340953795593289",
+            "date_last_used": "0",
+            "guid": "803e92f8-b065-4232-b458-449afc82e2e6",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SHSURYA - AWS Cloud9",
+            "type": "url",
+            "url": "https://eu-central-1.console.aws.amazon.com/cloud9/ide/1364fe33f53d4de2864db4c580ec46f5"
+         }, {
+            "date_added": "13340953799152618",
+            "date_last_used": "0",
+            "guid": "64a8630f-bfa5-41dd-8fb7-8c0cb3197cef",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "S3 | Global",
+            "type": "url",
+            "url": "https://s3.console.aws.amazon.com/s3/home?region=eu-central-1#"
+         }, {
+            "date_added": "13341998471928898",
+            "date_last_used": "13342178754230455",
+            "guid": "173302ac-c712-41fb-aa7d-eb9ec9059df3",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Spring Framework",
+            "type": "url",
+            "url": "https://whimsical.com/spring-framework-TVWwqkSZnFtBpnS629WueK"
+         }, {
+            "date_added": "13342023195492401",
+            "date_last_used": "0",
+            "guid": "c501013a-2015-401f-a928-f767ce325c85",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(872) YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13342023218747918",
+            "date_last_used": "0",
+            "guid": "bf279c81-c62a-4dd4-b068-f1591a9bc62d",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Search Labs",
+            "type": "url",
+            "url": "https://labs.google.com/search/experiments?source=ntp&is=ng"
+         }, {
+            "date_added": "13342073144585270",
+            "date_last_used": "0",
+            "guid": "2bde2c07-59f0-4cfb-b7fb-1ea6468295de",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13346305823015391",
+            "date_last_used": "0",
+            "guid": "bd788602-3e82-43ff-87e6-0f3b82182d11",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Online JSON Viewer and Formatter",
+            "type": "url",
+            "url": "https://jsonviewer.stack.hu/"
+         }, {
+            "date_added": "13346305828439839",
+            "date_last_used": "0",
+            "guid": "a0eb07ac-49e7-4043-9033-a01b39f3b5bc",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "swiggy.com/dapi/restaurants/list/v5?lat=12.9967012&lng=77.758197&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING",
+            "type": "url",
+            "url": "https://www.swiggy.com/dapi/restaurants/list/v5?lat=12.9967012&lng=77.758197&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
+         }, {
+            "date_added": "13346696123438932",
+            "date_last_used": "0",
+            "guid": "78671634-bd4e-494c-836a-6a1726af8a2f",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Buy Siria Diamond Stud Earrings Online | CaratLane",
+            "type": "url",
+            "url": "https://www.caratlane.com/jewellery/siria-diamond-stud-earrings-je06694-1yp600.html"
+         }, {
+            "date_added": "13346696256853133",
+            "date_last_used": "0",
+            "guid": "719ee300-71e8-4e36-a28a-df6ff1557a92",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zivah Diamond Mangalsutra Bracelet | Black Beads Bracelet | CaratLane",
+            "type": "url",
+            "url": "https://www.caratlane.com/jewellery/zivah-diamond-mangalsutra-bracelet-jt00973-ygp900.html"
+         }, {
+            "date_added": "13347884683661114",
+            "date_last_used": "0",
+            "guid": "3623dc77-b385-4701-809b-5209c24e3b0a",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "remove unnecessary PII from : r/immersivelabs",
+            "type": "url",
+            "url": "https://www.reddit.com/r/immersivelabs/comments/10zdpoe/remove_unnecessary_pii_from/?rdt=35882"
+         }, {
+            "date_added": "13347884698821985",
+            "date_last_used": "0",
+            "guid": "30ffb54a-b5ec-4405-aa60-a54b3c50c0b5",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "java - SLF4J: Failed to load class \"org.slf4j.impl.StaticLoggerBinder\" - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/7421612/slf4j-failed-to-load-class-org-slf4j-impl-staticloggerbinder"
+         }, {
+            "date_added": "13349201024998743",
+            "date_last_used": "0",
+            "guid": "a83184fa-5030-4f96-9805-56d7905d2aa3",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "INOX:SBR Horizon, Seegehalli Whitefield-Hoskote Rd | Movie Showtimes & Ticket Booking Near You in Bangalore - BookMyShow",
+            "type": "url",
+            "url": "https://in.bookmyshow.com/buytickets/inoxsbr-horizon-seegehalli-whitefieldhoskote-rd/cinema-bang-NSBR-MT/20240110#!seatlayout"
+         }, {
+            "date_added": "13349252343457325",
+            "date_last_used": "0",
+            "guid": "fbbffa3a-85c1-4171-be0e-59b05f6e1e32",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Online JSON Viewer and Formatter",
+            "type": "url",
+            "url": "https://jsonviewer.stack.hu/#https://www.swiggy.com/dapi/restaurants/list/v5?lat=12.9967012&lng=77.758197&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
+         } ],
+         "date_added": "13349269980588386",
+         "date_last_used": "0",
+         "date_modified": "13349252343457325",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13349269980588387",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CioKCgiIgQISBDE2NjcSACoYdmY3dzBhOUlGb2VFUmU0MzZiMEQydz09SAMSaAgBEmQKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SEjMyOTA0X2Jvb2ttYXJrX2JhchgAIAAoADCADTgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqsBCBISpgEKHERTMWJHSjMrekVka3RIcUszc2FBVWlPME9DWT0SKjMyOTA0X2ZiYmZmYTNhLTg1YzEtNDE3MS1iZTBlLTU5YjA1ZjZlMWUzMhgAIAAoADC+DDih/ezlzjFAof3s5c4xShxrQVpWcWlOSzA3RnBOdDJMd3UyMTB6Ym9RQ1U9WiAiHv/3NGNIV3JXeFQvczhRT25XVVFWN1RZTnNaVDRzPWXoEFPsEqsBCBESpgEKHGZlZXBTRklwV1dhWEU2UDFDb3NFdEdZWVpMcz0SKjMyOTA0X2E4MzE4NGZhLTUwMzAtNGY5Ni05ODA1LTU2ZDc5MDVkMmFhMxgAIAAoADCmDDjm37DNzjFA5t+wzc4xShxOc2NoRGZUTDBlWlZ1MzRjYkRVYVB3R25LYnM9WiAiHv/vNVpiNmQ4ZGthVVNoM2FwV2JjTXpSZGxjNGtzPWWOmNrqEqsBCA8SpgEKHEJ1cG9ZN3VhaGpqeDk3TkVRRERYWUZCSGVUaz0SKjMyOTA0XzM2MjNkYzc3LWIzODUtNDcwMS04MDliLTUyMDljMjRlM2IwYRgAIAAoADDrCTiN09nZyTFAjdPZ2ckxShxLTTFlNXR2SmwweCtEV0lKb0VHcWNOREpmWFk9WiAiHv+8WktyaXpSVlRrY2Vkc0lvciswcndEVlJQVWJnPWXAK/TwEqoBCA4SpQEKHEJ2RDdOWEwvMzludWZPQ3BndHMzTFFMd2FJbz0SKjMyOTA0XzcxOWVlMzAwLTcxZTgtNGUzNi1hMjhhLWRmNmZmMTU1N2E5MhgAIAAoADD/CDjV6oGjxTFA1eqBo8UxShxkK2g0dXpLbzdxMUwwY29RREthZWV1Y210SHM9Wh8iHf95aEdweURBdzNPV0U2TlZZakc0Y2l6Njc1eDA9ZZvR+LkSqgEIDRKlAQocTjMxTlh5djlJRkNYT2ZQaytFSEdkRnNIZC9jPRIqMzI5MDRfNzg2NzE2MzQtYmQ0ZS00OTRjLTgzNmEtNmExNzI2YWY4YTJmGAAgACgAMPgIOK/Y+aLFMUCv2PmixTFKHHZrSTd2Wnc4M3c3d2Fxd3kvNE84NHR4WldtRT1aHyId/1VuVjZXdHB5aHNGUldvc1N2VWs2cGw2MVhrQT1lm9H4uRKqAQgMEqUBChxUa2VteGw1b2hJMmEvMjlrVVJSNDRKaXBhM3M9EiozMjkwNF9hMGViMDdhYy00OWU3LTQwNDMtOTAzMy1hMDFiMzlmM2I1YmMYACAAKAAwzgg42Pzr6MMxQNj86+jDMUocNWhnMnFkNHVvc0dpeld0ckg5WkNmd0VFZWZFPVofIh3+Ulc4eXdMK1lEeE5JUHloSXJBWnpDMWlWQUIwPWUAAAAAEqoBCAoSpQEKHGxVU21tWTBidEd1TFlXUUZ3VEtTNjI4VTk3ND0SKjMyOTA0XzJiZGUyYzA3LTU5ZjAtNGNmYi1iN2ZiLTFlYTY0NjgyOTVkZRgAIAAoADCoBTiJusWGtDFAibrFhrQxShxzVmhSWXVxQjExOGQveFFiMVJqS3NpUU5hK3M9Wh8iHftvWDF5VmRiaTNCdUJUcDhDZ200QjM1WEQrS289ZQAAAAASqgEICBKlAQocUTA3d2RFWHZDQnVUa3pPOWdGQ0FNUzlLS0VZPRIqMzI5MDRfYzUwMTAxM2EtMjAxNS00MDFmLWE5MjgtZjc2N2NlMzI1Yzg1GAAgACgAMNMLOOTm3O6zMUDk5tzuszFKHGdpKzNvaCtUMFYzeHJyMk9NWS9PVUJXd3I0VT1aHyId7WFIWno1ci9NQ3k5RDdmdXZFVWJHWWJpTkRlWT1lOPk5MxKqAQgHEqUBChxlU2l4cjlSMjZFclRscjJxUU9EQUxvT1JoYXM9EiozMjkwNF8xNzMzMDJhYy1jNzEyLTQxZmItYWE3ZC1lYjllYzkwNTlkZjMYACAAKAAwmwY4+eX34rMxQPnl9+KzMUocSXgvS0NpNFYzU3ZObmxoU3Nic05JZW1yb1hRPVofIh3bYzRXaWdETkNyOVlkcGdxTDlydmk1QnZLRlVFPWUBylfoEqkBCAUSpAEKHEpJWSs3MVR6MUE5MU1uNXUvMzRVdTNWR1Vidz0SKjMyOTA0XzgwM2U5MmY4LWIwNjUtNDIzMi1iNDU4LTQ0OWFmYzgyZTJlNhgAIAAoADCiATiJ6OXwrzFAiejl8K8xShxkdU1xd2ppS1dGeXV0VkhYUkxCUTVsRnlaZUk9Wh4iHG1ENmZSRXZqR0J3eE9oWGlrWnRtalZSLzhQST1lMajMexKrAQgQEqYBChxROTVNSW0vTjR0Tzhob3d1TEJhQWdHWHp1Rms9EiozMjkwNF8zMGZmYjU0YS1iNWVjLTQ0MDUtYWE2MC1hNTRiM2M1MGMwYjUYACAAKAAw7Ak4xsna2ckxQMbJ2tnJMUocVTNrL01hRjZ2N2dQTnVqRTVPeFFqWk1Ta05nPVogIh7/3mRzeUQvdlZaTWdDRG9GUTNqVjNxZGlodVRvbz1lD8w0FBJrCAISZwocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIVMzI5MDRfb3RoZXJfYm9va21hcmtzGAAgACgAMIENOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqgEICxKlAQocbWlsRDRqcTRpd1d6QVdYYUJyM3E3VUtLYmNFPRIqMzI5MDRfYmQ3ODg2MDItM2U4Mi00M2ZmLTg3ZTYtMGYzYjgyMTgyZDExGAAgASgBMIMNOKfS6+jDMUCzvaHuzjFKHDNlSTlEa2JMaDcyL3kzL2IrVGlhY08yakcrdz1aHyId/TBBQ3pWMVBDalEvNGxNRVQ2QmtaZDhoV2lOQT1l6BBT7BKqAQgJEqUBChxTYzQyOG1rZm8wSk5hM1RLOWN2cFVoY1QycGM9EiozMjkwNF9iZjI3OWM4MS1jNjJhLTRkZDQtYjA2OC1mMTU5MWE5YmM2MmQYACAAKAAwhAU4vJze7rMxQLyc3u6zMUocNEVzcXBHNHBEakJoQ3dJT1V1V3pVK0VZTk1vPVofIh32ai8rU0FFRjlMcEZYWVdFSHkyUTZxN1A1WkFvPWURngJVEqoBCAYSpQEKHFpvOVlpUVV1d0poRXVSL0NVYWVML0h5U2lhRT0SKjMyOTA0XzY0YTg2MzBmLWJmYTUtNDFkZC04ZmI3LThjMGNiMzE5N2NlZhgAIAAoADCjATjwg+bwrzFA8IPm8K8xShxmOXlPaHFhbkxOUHRSN1dCQXk1SHlIVEU3WFE9Wh8iHbZOWjErbDdBZG1CZW4wOXZ5M1B3OWVBbVlGOTg9ZfMorKkSbAgDEmgKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SFjMyOTA0X3N5bmNlZF9ib29rbWFya3MYACAAKAAwgg04AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
+   "version": 1
+}
